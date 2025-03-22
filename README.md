@@ -1,1 +1,1 @@
- This is based on a web development lab that focuses on, Writing valid, semantic HTML5 code, using HTML5 forms with built-in validation, checking and fixing errors using the W3C Validator, and publishing the project on GitHub.
+ This is based on a web development lab that focuses on; writing valid, semantic HTML5 code, using HTML5 forms, checking and fixing errors using the W3C Validator, and publishing the project on GitHub.
